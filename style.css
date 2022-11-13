@@ -138,11 +138,11 @@ header .navbar a:hover{
 }
 .home .content h3{
     font-size: 5rem;
-    color: black;
+    color: white;
 }
 .home .content p{
     font-size: 2rem;
-    color: black;
+    color: white;
     padding: 1rem 0;
 }
 .speciality .box-container{

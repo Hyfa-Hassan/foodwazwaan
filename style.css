@@ -111,8 +111,6 @@ header .navbar a:hover{
     gap: 1.5rem;
     min-height: 100vh;
     align-items: center;
-    /* background: url(../images/rista2.jpg) no-repeat; */
-    background-color: #fff;
     background-size: cover;
     background-position: center;
 }
@@ -421,7 +419,7 @@ header .navbar a:hover{
     top:calc(100% - 12rem)
 }
 
-.loader-container{
+/* .loader-container{
     position: fixed;
     top:0; left:0;
     z-index: 10000;
@@ -434,7 +432,7 @@ header .navbar a:hover{
 }
 .loader-container.fade-out{
     top:-120%;
-}
+} */
 
 
 

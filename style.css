@@ -111,7 +111,8 @@ header .navbar a:hover{
     gap: 1.5rem;
     min-height: 100vh;
     align-items: center;
-    background: url(../images/rista2.jpg) no-repeat;
+    /* background: url(../images/rista2.jpg) no-repeat; */
+    background-color: #fff;
     background-size: cover;
     background-position: center;
 }
@@ -126,6 +127,7 @@ header .navbar a:hover{
     width: 100%;
     padding: 1rem;
     animation: float 3s linear infinite;
+    border-radius: 48%;
 }
 
 @keyframes float{
@@ -138,11 +140,11 @@ header .navbar a:hover{
 }
 .home .content h3{
     font-size: 5rem;
-    color: white;
+    color: black;
 }
 .home .content p{
     font-size: 2rem;
-    color: white;
+    color: black;
     padding: 1rem 0;
 }
 .speciality .box-container{
